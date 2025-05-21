@@ -1,0 +1,22 @@
+ECG & HRV Analysis Report
+==============================
+Report generated on: 2025-05-21 15:15:12
+Sampling Rate used for processing: 250 Hz
+Filter applied: Bandpass 0.5-40.0 Hz, Order 6
+
+--- HRV Time-Domain Metrics ---
+Mean RR Interval: 1356.27 ms
+SDNN (Standard Deviation of NN intervals): 993.49 ms
+RMSSD (Root Mean Square of Successive Differences): 1272.91 ms
+pNN50 (Percentage of successive NN intervals > 50ms): 92.75 %
+Mean Heart Rate: 44.24 BPM
+
+Total number of RR intervals analyzed: 1325
+Total number of R-peaks detected: 1326
+
+--- Notes ---
+SDNN reflects overall HRV. Higher values generally indicate better autonomic function.
+RMSSD reflects short-term, high-frequency HRV, primarily influenced by parasympathetic activity.
+pNN50 also reflects parasympathetic activity.
+Interpret these values in context and ideally compare against personal baselines or population norms.
+The Sampling Rate used for processing (250 Hz) .
