@@ -1,0 +1,8 @@
+# .gitattributes
+
+
+*.ino linguist-language=C++
+
+
+*.py linguist-language=Python
+
