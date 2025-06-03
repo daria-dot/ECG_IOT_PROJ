@@ -22,12 +22,21 @@ Modular Design: Code is organized into separate files for better maintainability
 Project Structure
 ecg_analysis_project/
 ├── arduino/                  # Contains the Arduino (ESP32) firmware code.
+
 ├── config.py                 # Configuration parameters for serial port, ECG processing, and output.
+
 ├── data_acquisition.py       # Handles serial data collection.
-├── docs/                     # Contains project documentation and images (e.g., setup photos).
+
+├── docs/                     # Contains project documentation and images.
+
 ├── ecg_processing.py         # Contains functions for filtering, R-peak detection, and HRV calculation.
+
 ├── reporting_and_plotting.py # Manages plot generation and report writing.
+
 ├── main.py                   # The main script to run the entire workflow.
+
 ├── requirements.txt          # Lists all Python dependencies.
+
 ├── results/                  # Directory to store generated plots and analysis reports.
+
 └── README.md                 # This file.
