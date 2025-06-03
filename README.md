@@ -40,3 +40,7 @@ ecg_analysis_project/
 ├── results/                  # Directory to store generated plots and analysis reports.
 
 └── README.md                 # This file.
+
+Setup:
+
+![setup_picture 2-min](https://github.com/user-attachments/assets/b0673c16-1aeb-4766-a9f4-e2d771f1a071)
